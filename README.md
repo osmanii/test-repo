@@ -1,4 +1,4 @@
 # test-repo
 ============
-demo
+hi there...
 this is a test
